@@ -1,7 +1,7 @@
 # S.A.E Univesity Project : Algorithmic Exploration of a Problem
 
 ## Team Members:
-- AL Ramini Emad
+- AL Ramimi Emad
 - Miled Willem
 - El Kaddouri Amine
 - Weter Liam
